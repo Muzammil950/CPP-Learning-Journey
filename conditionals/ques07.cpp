@@ -13,4 +13,4 @@ int main () {
     else{
         cout<<"not divisible"; 
     }
-}
+}  
